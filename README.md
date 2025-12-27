@@ -1,5 +1,8 @@
 # FUTURE_DS_01 - E-commerce Sales Dashboard
 
+Aim:
+To perform data cleaning, analysis, and visualization of e-commerce sales data using Power BI, and to design an interactive dashboard that provides insights into product performance, revenue trends, customer purchase patterns, and category-wise contribution, enabling businesses to monitor KPIs and improve sales strategies.
+
 ## 🎯 Task Objective
 Analyze e-commerce data to identify:
 - Best-selling products
